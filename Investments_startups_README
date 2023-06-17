@@ -1,2 +1,0 @@
-The purpose of this analysis is to create a machine leraning model that can predict the amount of investments that a startups could get based by some information, which are: Country of the company, Year o foundation and Industry.
-y using both Decision Tree Regressor and Random forest regressor t
